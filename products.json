@@ -1,0 +1,41 @@
+{
+  "p1": {
+    "type": "physical",
+    "product_id": "p1",
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "quantity_available": 50,
+    "weight": 0.2
+  },
+  "p2": {
+    "type": "physical",
+    "product_id": "p2",
+    "name": "Bluetooth Keyboard",
+    "price": 45.5,
+    "quantity_available": 30,
+    "weight": 0.5
+  },
+  "d1": {
+    "type": "digital",
+    "product_id": "d1",
+    "name": "E-book: Python Basics",
+    "price": 19.99,
+    "quantity_available": 1000,
+    "download_link": "https://example.com/download/d1"
+  },
+  "d2": {
+    "type": "digital",
+    "product_id": "d2",
+    "name": "Photo Editing Software",
+    "price": 59.99,
+    "quantity_available": 500,
+    "download_link": "https://example.com/download/d2"
+  },
+  "p3": {
+    "type": "product",
+    "product_id": "p3",
+    "name": "USB Flash Drive 64GB",
+    "price": 12.99,
+    "quantity_available": 100
+  }
+}
